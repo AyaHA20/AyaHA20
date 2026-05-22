@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,17,14,12&height=220&section=header&text=Hamla%20Ait%20Ellah&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Software%20Engineering%20%40%20UMBB&descAlignY=62&descSize=17&descColor=ffe0f0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,4,20&height=220&section=header&text=Hamla%20Ait%20Ellah&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Software%20Engineering%20%40%20UMBB&descAlignY=62&descSize=17&descColor=fff9c4" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=22&pause=1200&color=E91E8C&center=true&vCenter=true&width=650&lines=Building+beautiful+interfaces+%F0%9F%8C%B8;React+%C2%B7+Next.js+%C2%B7+TypeScript+%E2%9C%A8;UI%2FUX+Designer+%40+Figma+%F0%9F%8E%A8;Software+Engineering+%40+UMBB+%F0%9F%92%BB;Open+to+Internship+Opportunities+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
@@ -119,6 +119,7 @@ const aya = {
 
 *"Code is like makeup — it's all in the details ✨"*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,17,14,12&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,4,20&height=120&section=footer" />
+
 
 </div>
