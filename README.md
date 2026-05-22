@@ -13,7 +13,9 @@
 
 ---
 
-<img align="right" alt="Coding girl" width="280" src="code.gif"/>
+<div align="center">
+  <img alt="Coding girl" width="100%" src="code.gif"/>
+</div>
 
 ## 🌸 About Me
 
