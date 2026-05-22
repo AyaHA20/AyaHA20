@@ -13,7 +13,7 @@
 
 ---
 
-<img align="right" alt="Coding girl" width="280" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"/>
+<img align="right" alt="Coding girl" width="280" src="code.gif"/>
 
 ## 🌸 About Me
 
