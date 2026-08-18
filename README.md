@@ -23,7 +23,7 @@
 const aya = {
   name:       "Hamla Ait Ellah",
   aka:        "Aya ✨",
-  role:       "Frontend Developer & UI/UX Designer",
+  role:       "Full-Stack Developer & UI/UX Designer",
   university: "UMBB — Génie Logiciel (4ème année)",
   location:   "Boumerdes, Algeria 🇺🇿",
   passion:    ["Beautiful UI", "Clean Code", "Figma 🌈"],
